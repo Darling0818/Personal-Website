@@ -10,7 +10,7 @@
 body{
     justify-content: center;
     margin: 0;
-    background: url("../img/wall-2059909_640.jpeg");
+    background-image: url("../img/wall-2059909_640.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
