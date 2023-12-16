@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: Myfont;
-    src: url(/font/chopin-script/Chopin.ttf);
+    src: url('../font/chopin-script/Chopin.ttf');
 }
 
 body{
